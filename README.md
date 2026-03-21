@@ -3,13 +3,15 @@ This repository showcases my skills in using Python to analysis everyday-life pr
 
 The purpose of me using Python:
 
-Reduce manual work by over 90%, and free the creativity of colleagues.
-Improve accuracy in the analysis reports.
+1
+2
+
 The repository structure of example database: 
-file 1 Schema and diagram of the database
-2 queries
+file 1 Q&A_perfect_shuffle.pdf, perfect_shuffle.py
+2 
 3
-4 data
+4 
+
 Software used:
 
 Online Python window https://trinket.io/python3
