@@ -4,13 +4,17 @@ This repository showcases my skills in using Python to analysis everyday-life pr
 The purpose of me using Python:
 
 1
+
 2
 
 The repository structure of example database: 
 file 1 Q&A_perfect_shuffle.pdf, perfect_shuffle.py
 2 
+
 3
+
 4 
+
 
 Software used:
 
