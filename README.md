@@ -1,5 +1,5 @@
 # Daily-life-Python
-This repository showcases practical skills in using Python to improve the efficiency of data analysis.
+This repository showcases my skills in using Python to analysis daily-life problems.
 
 The purpose of me using Python:
 
