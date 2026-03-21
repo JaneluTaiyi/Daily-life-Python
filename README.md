@@ -8,7 +8,9 @@ The purpose of me using Python:
 2
 
 The repository structure of example database: 
+
 file 1 Q&A_perfect_shuffle.pdf, perfect_shuffle.py
+
 2 
 
 3
