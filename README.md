@@ -21,3 +21,5 @@ The repository structure of example database:
 Software used:
 
 Online Python window https://trinket.io/python3
+
+Anaconda Navigator - Jupyter Notebook 6.0.3
