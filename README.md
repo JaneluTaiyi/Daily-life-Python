@@ -3,7 +3,7 @@ This repository showcases my skills in using Python to analysis everyday-life pr
 
 
 
-The repository structure of example database: 
+The repository structure: 
 
 1 Q&A_perfect_shuffle.pdf, perfect_shuffle.py
 
