@@ -11,7 +11,7 @@ The repository structure of example database:
 
 1 Q&A_perfect_shuffle.pdf, perfect_shuffle.py
 
-2 
+2 Q&A_simulation_household.pdf, simulation_household
 
 3
 
